@@ -18,11 +18,6 @@ def literal_aoh
        {:name=>"Pat Monteseian", :occupation=>"Staff"},
        {:name=>"Kate Gompert", :occupation=>"None"},
        {:name=>"Bruce Green", :occupation=>"Fan of Mildred"}
-     ]
-
-
-
-
        #["Don Gately","Live-in Staff"],
        #["Joelle van Dyne","Radio Personality"],
        #["Pat Monteseian", "Staff"],
