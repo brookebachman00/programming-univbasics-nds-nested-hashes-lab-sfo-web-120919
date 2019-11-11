@@ -13,8 +13,12 @@ end
 
 def literal_aoh
   [
-
-]
+       ["Don Gately","Live-in Staff"],
+       ["Joelle van Dyne","Radio Personality"],
+       ["Pat Monteseian", "Staff"],
+       ["Kate Gompert", "None"],
+       ["Bruce Green", "Fan of Mildred"]
+     ]
 
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
