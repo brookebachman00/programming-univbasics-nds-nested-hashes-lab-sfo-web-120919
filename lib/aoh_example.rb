@@ -13,11 +13,21 @@ end
 
 def literal_aoh
   [
-       ["Don Gately","Live-in Staff"],
-       ["Joelle van Dyne","Radio Personality"],
-       ["Pat Monteseian", "Staff"],
-       ["Kate Gompert", "None"],
-       ["Bruce Green", "Fan of Mildred"]
+    {:name=>"Don Gately", :occupation=>"Live-in Staff"},
+      {:name=>"Joelle van Dyne", :occupation=>"Radio Personality"},
+       {:name=>"Pat Monteseian", :occupation=>"Staff"},
+       {:name=>"Kate Gompert", :occupation=>"None"},
+       {:name=>"Bruce Green", :occupation=>"Fan of Mildred"}
+     ]
+
+
+
+
+       #["Don Gately","Live-in Staff"],
+       #["Joelle van Dyne","Radio Personality"],
+       #["Pat Monteseian", "Staff"],
+       #["Kate Gompert", "None"],
+       #["Bruce Green", "Fan of Mildred"]
      ]
 
   # Using Array literal syntax only, build a nested array that uses the data in
